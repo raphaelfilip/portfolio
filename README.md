@@ -1,4 +1,4 @@
-https://github.com/raphaelfilip/portfolio/blob/main/banner.png
+img src="https://github.com/raphaelfilip/portfolio/blob/main/banner.png"
 
 # Raphael Filip
 Estudante de Eng. Química e Ciência de dados
